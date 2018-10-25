@@ -45,9 +45,9 @@ function sendENCODE() {
     client.write('ENCODE D:/cwp-04/dasha.txt D:/cwp-04/encode.txt 999');
 }
 
-//function sendDECODE() {
-//    client.write('DECODE D:/cwp-04/encode.txt D:/cwp-04/decode.txt 999');
-//}
+function sendDECODE() {
+    client.write('DECODE D:/cwp-04/encode.txt D:/cwp-04/decode.txt 999');
+}
 client.on('close', function() {
     console.log('Connection closed');
 });
