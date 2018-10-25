@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Do you want to live abroad",
+    "goodAns": "Yes",
+    "badAns": "No"
+  },
+  {
+    "question": "Is Josh Snow a King of the North?",
+    "goodAns": "True",
+    "badAns": "False"
+  },
+  {
+    "question": "Do you use callbacks in callbacks?",
+    "goodAns": "True",
+    "badAns": "False"
+  },
+  {
+    "question": "2+2*2=6",
+    "goodAns": "True",
+    "badAns": "False"
+  }
+]
